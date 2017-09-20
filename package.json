@@ -1,7 +1,7 @@
 {
   "name": "vue-wumutian-captcha",
   "version": "0.2.0",
-  "description": "阿里云滑动验证码",
+  "description": "滑动验证码",
   "author": "CExiao",
   "license": "MIT",
   "main": "src/index.js",
