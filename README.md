@@ -27,7 +27,7 @@
 <script>
 
 import Vue from 'vue'
-import AliyunCaptcha from 'vue-aliyun-captcha'
+import AliyunCaptcha from '5mutian-vue-captcha'
 export default {
   data () {
     return {
